@@ -1,1 +1,1 @@
-# NFT-project
+# NFT-project - ui
